@@ -16,3 +16,13 @@
   display: flex;
   justify-content: center;
 }
+
+.card > .img-container > img:active {
+  opacity: 0.75;
+}
+
+.card > .img-container > img:hover {
+  width: 105%;
+  height: 105%;
+  transition: 0.25s;
+}
