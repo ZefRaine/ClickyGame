@@ -1,6 +1,6 @@
 # Yet another click game
 
-## What is this? 
+### What is this? 
 You like *buttons*? You like *cartoons?* You like *memory games*? Try to click the pictures and never repeat yourself! Remember all 12 and you win!
 
 ### What's this about?
