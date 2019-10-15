@@ -1,0 +1,13 @@
+.header {
+  color: #39473f;
+  padding: 80px 20px;
+  text-align: center;
+  font-size: calc(10px + 20 * (100vw - 320px) / 800);
+  white-space: nowrap;
+  z-index: 99;
+}
+h1,
+h2 {
+  font-weight: 900;
+  text-shadow: 2px 2px #0000002c;
+}

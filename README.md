@@ -1,2 +1,0 @@
-# ClickyGame
-Created with CodeSandbox
