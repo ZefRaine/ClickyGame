@@ -1,13 +1,13 @@
 import React from "react";
 import "./style.css";
-function Nav() {
+function Nav(props) {
   return (
     <nav className="navbar">
       <li>
         <a href="/">Clicky Game</a>
       </li>
-      <li>Click images to play!</li>
-      <li>Score: 0 | Top Score: 0</li>
+      <li>{props.answer}</li>
+      <li>Score: {props.score} | Top Score: {props.highscore}</li>
     </nav>
   );
 }
