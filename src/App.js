@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Card from "./components/Card";
 import Nav from "./components/Nav";
 import Wrapper from "./components/Wrapper";
-import friendslist from "./friends.json";
+import friendslist from "../src/friends.json";
 import Header from "./components/Header";
 // import Shuffle from "./components/Shuffle";
 
