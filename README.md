@@ -7,6 +7,6 @@ You like *buttons?* You like *cartoons?* You like *memory games?* Try to click t
 After diving face first into react I decided to show a little of what I know. I like memory games and I like cartoons. 
 
 ### How do I play?
-Click [*here*](www.google.com)
+Click [*here*](https://yetanotherclickygame.herokuapp.com/)
 
 ###### Developed by Zeph Tambornino
