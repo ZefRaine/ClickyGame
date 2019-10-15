@@ -6,7 +6,7 @@ function Nav() {
       <li>
         <a href="/">Clicky Game</a>
       </li>
-      <li>Click an image to begin!</li>
+      <li>Click images to play!</li>
       <li>Score: 0 | Top Score: 0</li>
     </nav>
   );
